@@ -1,4 +1,4 @@
 reversiandroid
 ==============
 
-simple implementation of reversi o android using custom view
+simple implementation of reversi on android using custom view
