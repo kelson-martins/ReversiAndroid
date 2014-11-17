@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Martins_Kelson_2868764</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="player_turn">Player Turn:</string>
+    <string name="turn_white">White</string>
+    <string name="turn_black">Black</string>
+    <string name="draw">Draw</string>
+    <string name="reset">Reset</string>
+    <string name="white">White: </string>
+    <string name="black">Black: </string>
+    <string name="score_white">2</string>
+    <string name="score_black">2</string>
+    <string name="winner">Game Over. Winner:</string>
+</resources>
