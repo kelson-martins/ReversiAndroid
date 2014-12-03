@@ -1,6 +1,7 @@
 reversiandroid
 ==============
 
-Simple implementation of reversi on android using custom view.
+Simple implementation of a 2 Players Reversi game on Android.
 
-Project developed as part of the assignment 2 of the New and Emerging Technologies - Griffith College, Masters in Computing
+Project developed as part of the assignment 2 of the New and Emerging Technologies Module.
+Griffith College - Masters in Computing
